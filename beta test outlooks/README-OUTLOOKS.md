@@ -1,4 +1,4 @@
-Each directory here contains our generated outlooks, named according to date, for the associated upcoming April/May 2026 central bank decision.
+Each directory here contains our generated outlooks, named according to date, for the associated upcoming April/May 2026 central bank decision (as of Sun Apr 12th 2006)
 
 | Bank | Decision Date | Days Away |
 |------|--------------|-----------|
